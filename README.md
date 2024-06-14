@@ -1,2 +1,1 @@
-# alx_be_shell
-Shell Permissions Project
+Shell Permissions
